@@ -10,7 +10,7 @@
   inputs.src-nre-0_6_1.flake = false;
   inputs.src-nre-0_6_1.ref   = "refs/tags/0.6.1";
   inputs.src-nre-0_6_1.owner = "flaviut";
-  inputs.src-nre-0_6_1.repo  = "nre.git";
+  inputs.src-nre-0_6_1.repo  = "nre";
   inputs.src-nre-0_6_1.type  = "github";
   
   inputs."optional_t".owner = "nim-nix-pkgs";

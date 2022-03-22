@@ -10,7 +10,7 @@
   inputs.src-nre-master.flake = false;
   inputs.src-nre-master.ref   = "refs/heads/master";
   inputs.src-nre-master.owner = "flaviut";
-  inputs.src-nre-master.repo  = "nre.git";
+  inputs.src-nre-master.repo  = "nre";
   inputs.src-nre-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
