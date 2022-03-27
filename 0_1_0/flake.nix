@@ -11,6 +11,7 @@
   inputs.src-nre-0_1_0.ref   = "refs/tags/0.1.0";
   inputs.src-nre-0_1_0.owner = "flaviut";
   inputs.src-nre-0_1_0.repo  = "nre";
+  inputs.src-nre-0_1_0.dir   = "";
   inputs.src-nre-0_1_0.type  = "github";
   
   inputs."optional_t".owner = "nim-nix-pkgs";

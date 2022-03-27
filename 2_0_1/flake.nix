@@ -11,6 +11,7 @@
   inputs.src-nre-2_0_1.ref   = "refs/tags/2.0.1";
   inputs.src-nre-2_0_1.owner = "flaviut";
   inputs.src-nre-2_0_1.repo  = "nre";
+  inputs.src-nre-2_0_1.dir   = "";
   inputs.src-nre-2_0_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
